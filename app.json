@@ -51,6 +51,12 @@
         "projectId": "14ebe9e7-050c-4ee0-b92f-ba495bad4d3c"
       }
     },
-    "owner": "karimm1620"
+    "owner": "karimm1620",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/14ebe9e7-050c-4ee0-b92f-ba495bad4d3c"
+    }
   }
 }
