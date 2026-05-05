@@ -30,7 +30,7 @@ const Header = () => {
         </LinearGradient>
 
         <View style={homeStyles.titleTextContainer}>
-          <Text style={homeStyles.title}>Tugas Hari ini 👀</Text>
+          <Text style={homeStyles.title}>Task!</Text>
           <Text style={homeStyles.subtitle}>
             {completedCount} dari {totalCount} selesai
           </Text>
